@@ -7,8 +7,8 @@
 
 ### Teaching team:
 - [Marco](github.com/marco-ih-bcn)
-- [Javi] (github.com/javisastre)
-- [Eli] (github.com/elisendamonserrat)
+- [Javi](github.com/javisastre)
+- [Eli](github.com/elisendamonserrat)
 
 ### Students
 - 
